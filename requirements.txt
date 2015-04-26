@@ -1,0 +1,8 @@
+1	In any situation the calculator has to produce a correct result defined by the well-known arithmetic rules
+2	On encountering a division by 0 the display should read "Infinity" and typing the key “Clear” should reset the calculator
+3	On calculating the square root value of a negative operand the display should read "NaN"
+4	On erroneous operand or operation keys the display should read “Reset (Clear) to continue” as appropriate
+5	On calculating arcsine, arccosine value input should be within -1 to 1 otherwise the display should read “NaN”
+6	On calculating Ln and Log10 value must be greater than 0 otherwise the display should read “-Infinity”
+7	This application will run and close properly
+8	In this application all keys are functional.
